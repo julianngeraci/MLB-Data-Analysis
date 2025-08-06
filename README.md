@@ -24,7 +24,7 @@ Each team has two output files saved in `team_reports/`:
 
 ---
 
-# MLB Team Report Generator — MLBSQL.ipynb
+# MLB SQL Analysis— MLBSQL.ipynb
 
 This Python notebook builds on MLBStats.ipynb by loading the data into a SQLite database and performing advanced SQL-based analyses.
 
